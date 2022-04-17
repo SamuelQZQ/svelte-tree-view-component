@@ -1,12 +1,17 @@
 {
     "name": "svelte-tree-view-component",
-    "version": "0.0.1",
+    "description": "A beautiful and easy to use Tree View component for Svelte.",
+    "version": "1.0.0",
     "author": "SamuelQZQ <qianzheqi@foxmail.com> (https://qzq.at)",
-    "svelte": "index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/SamuelQZQ/svelte-tree-view-component"
+        "url": "https://github.com/SamuelQZQ/svelte-tree-view-component.git"
     },
+    "keywords": [
+        "svelte",
+        "tree-view",
+        "component-library",
+    ],
     "scripts": {
         "dev": "svelte-kit dev",
         "build": "svelte-kit build",

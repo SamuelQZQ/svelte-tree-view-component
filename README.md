@@ -2,7 +2,7 @@
 
 A beautiful and easy to use Tree View component for Svelte.
 
-[Image here]
+![](./screeshot.gif)
 
 ## Install
 ```
