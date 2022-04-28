@@ -15,6 +15,7 @@
 <style>
 	.tree {
 		margin: 1em;
+		box-sizing: content-box;
 	}
 
 	.tree :global(ul) {
